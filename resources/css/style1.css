@@ -1,0 +1,12 @@
+body {
+	background: #A7DCE0;
+}
+td {
+	height: 30px;
+	width: 30px;
+	padding: 5px;
+	background: white;
+}
+.black-square {
+	background: #D16266;
+}
